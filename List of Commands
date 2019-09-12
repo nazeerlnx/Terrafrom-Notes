@@ -1,0 +1,9 @@
+# first we need to initilize the terrafrom 
+
+$ terraform init    -> it considers the provider
+
+$ terrafrom plan > content.txt    -> it shows what and all the changes takes in the cloud platform
+
+$ terraform apply    -> it creats the instance or executes the code 
+
+$ terraform destroy  -> it terminates the what and all the things create by the form
